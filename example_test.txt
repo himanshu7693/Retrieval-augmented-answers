@@ -1,0 +1,25 @@
+# Example Test
+
+Question:
+
+What is the standard return window?
+
+Expected grounded behavior:
+
+Answer:
+The standard return window is 30 days from the delivery date.
+
+Retrieved source:
+company_policy.txt
+
+The application also prints the actual retrieved chunk, so the answer can be traced back to the source.
+
+Out-of-scope question:
+
+What programming language was used to build the company's mobile app?
+
+Expected behavior:
+
+Not in the provided documents.
+
+This demonstrates the required honest fallback instead of relying on the model's general knowledge.

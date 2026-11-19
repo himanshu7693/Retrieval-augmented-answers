@@ -1,0 +1,7 @@
+Support FAQ
+
+For account access problems, customers should first use the password-reset option on the sign-in page.
+If the reset email does not arrive, customers should check the spam or junk folder.
+If the problem continues, contact support with the account email address.
+Support requests should include enough information for the team to identify the affected account or order.
+Typical support questions include account access, product information, and order issues.
